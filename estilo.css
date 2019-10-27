@@ -1,0 +1,12 @@
+body {
+      font: 400 15px Tahoma, sans-serif;
+      line-height: 1.8;
+      color: #818181;
+  }
+h1 {
+      background-color:#0174DF; 
+      color: #fff;
+      text-transform: uppercase;
+      padding: 100px 25px;
+      text-align: center;     
+  }
